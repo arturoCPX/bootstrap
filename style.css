@@ -1,0 +1,29 @@
+.carousel-item {
+    height: 400px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .carousel {
+    height: 900px; 
+  }
+  
+  .carousel-inner {
+    height: 100%; 
+  }
+  
+  .carousel-item {
+    height: 100%; 
+  }
+  
+  .carousel-item img {
+    object-fit: cover; 
+  }
+
+  .dropdown-menu .dropdown-item:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  
